@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan  2 19:28:13 2020
-
-@author: Rajnesh Bajaj
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Fri Dec 13 20:49:04 2019
 
 @author: Shayan
